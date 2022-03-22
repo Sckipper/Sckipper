@@ -3,6 +3,7 @@
 - 🌱 I’m constantly learning how projects are made (programming languages, architecture, techonolgies, ... projects)
 - 💞️ I’m looking to collaborate on any project that will make me say "Cool!"
 - 📫 How to reach me? Look in the header of files from my repos.
+- BTW, That's an old picture
 
 <!---
 Sckipper/Sckipper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
